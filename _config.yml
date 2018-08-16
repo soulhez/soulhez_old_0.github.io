@@ -1,0 +1,41 @@
+title: Hello, world! I'm aBaO 
+description: > # this means to ignore newlines until "baseurl:"
+  Hi，我是阿鲍，我喜欢分享，想在这个博客空间和大家一起分享我的各种心得
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aabao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author Settings
+author: aBaO # add your name
+author-img: abao.jpg # add your photo
+about-author: Hi，我是阿鲍，我喜欢分享，想在这个博客空间和大家一起分享我的各种心得 # add description
+
+wechat-official-account: 非正常程序猿(XXXCoder) 
+wechat-official-account-qrcode: qrcode_for_xxxcoder.jpg 
+about-wechat-official-account: 喜欢我的博客可以专注公众号搬进手机
+
+github: aaBaO # add your Github handle
+linkedin: 向鸿-鲍-a15013b2 # add your Linkedin handle
+email: abao883@gmail.com # add your Email address
+
+# Disqus
+# discus-identifier: aaBaO # add your discus identifier
+
+# Gitment 
+gitment_owner: aaBaO
+gitment_repo: aaBaO.github.io
+gitment_client_id: b3dc0d875126af1db1e5
+gitment_client_secret: dad848be975d1df7e26b72146b3a5bfe7a0d69e5
+
+# Tracker
+analytics: UA-107318915-1 # Google Analytics
+
+# Build Settings
+markdown: kramdown
+kramdown:
+    syntax_highlighter: rouge
+    #    syntax_highlighter_opts: 
+plugins:
+  - jekyll-sitemap
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
