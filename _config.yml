@@ -1,22 +1,22 @@
-title: Hello, world! I'm aBaO 
+title: Hello, world! I'm soulhez 
 description: > # this means to ignore newlines until "baseurl:"
-  Hi，我是阿鲍，我喜欢分享，想在这个博客空间和大家一起分享我的各种心得
+  Hi，我是何增福，在这儿写下我的记忆！
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aabao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://soulhez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: aBaO # add your name
+author: soulhez # add your name
 author-img: abao.jpg # add your photo
-about-author: Hi，我是阿鲍，我喜欢分享，想在这个博客空间和大家一起分享我的各种心得 # add description
+about-author: Hi，我是何增福，，在这儿写下我的记忆！ # add description
 
-wechat-official-account: 非正常程序猿(XXXCoder) 
+wechat-official-account: 随笔
 wechat-official-account-qrcode: qrcode_for_xxxcoder.jpg 
 about-wechat-official-account: 喜欢我的博客可以专注公众号搬进手机
 
-github: aaBaO # add your Github handle
-linkedin: 向鸿-鲍-a15013b2 # add your Linkedin handle
-email: abao883@gmail.com # add your Email address
+github: soulhez # add your Github handle
+linkedin: aaa-sdsads # add your Linkedin handle
+email: soulhez@gmail.com # add your Email address
 
 # Disqus
 # discus-identifier: aaBaO # add your discus identifier
